@@ -1,0 +1,21 @@
+/* Daca vrem ca aplicatia sa ocupe intreg viewport-ul. */
+.app {
+  min-height: 100vh;
+  padding: 5%
+}
+
+.app h1 {
+  margin-top: 0;
+}
+
+.app button {
+  margin: 1%;
+  padding: 2%;
+  border-radius: 15px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.projectName {
+  text-align: center;
+}
